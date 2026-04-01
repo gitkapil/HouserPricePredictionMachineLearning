@@ -59,8 +59,3 @@ HouserPricePredictionMachineLearning/
 - Python 3.7+
 - pandas, numpy, scikit-learn, matplotlib, joblib, streamlit
 
-## License
-MIT License
-
----
-*Created with ❤️ for California housing data science projects.*
